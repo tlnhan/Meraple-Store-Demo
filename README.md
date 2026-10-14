@@ -1,4 +1,5 @@
 # Meraple-Store-Demo
+Firebase + Java
 Welcome Page:
 <img width="292" height="619" alt="image" src="https://github.com/user-attachments/assets/319d7608-9fb7-4a9b-8905-f1b79914c601" />
 
